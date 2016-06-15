@@ -1,0 +1,9 @@
+pc.spec
+
+PC名　　　　　　DESKTOP-BTEC36S
+組織　　　　　　WORKGROUP
+エディション　　Windows 10 Home
+プロダクトID　　00325-80259-06433-AAOEM
+プロセッサ　　　Intel(R)Core(TM)i5-6200U CPU @ 2.30GHz
+実装RAM       　4.00 GB(3.86 GB　使用可能）
+システムの種類　64ビットオペレーティングシステム、x64ベースプロセッサ
